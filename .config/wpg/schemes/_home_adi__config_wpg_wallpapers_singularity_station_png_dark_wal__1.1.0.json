@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/adi/.config/wpg/wallpapers/singularity_station.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#222d3f",
+        "foreground": "#e0ecf2",
+        "cursor": "#e0ecf2"
+    },
+    "colors": {
+        "color0": "#222d3f",
+        "color1": "#1DC8F9",
+        "color2": "#31CAFB",
+        "color3": "#4DD1FB",
+        "color4": "#6DD7FA",
+        "color5": "#BDC3BB",
+        "color6": "#A0DEF9",
+        "color7": "#e0ecf2",
+        "color8": "#9ca5a9",
+        "color9": "#1DC8F9",
+        "color10": "#31CAFB",
+        "color11": "#4DD1FB",
+        "color12": "#6DD7FA",
+        "color13": "#BDC3BB",
+        "color14": "#A0DEF9",
+        "color15": "#e0ecf2"
+    }
+}
